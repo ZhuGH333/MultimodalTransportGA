@@ -1,0 +1,8 @@
+﻿UserEmissionLevel;0
+TimeWeight;4
+ComfortWeight;2
+EmissionWeight;2
+CostWeight;2
+TimeMaxExpected;60
+ComfortMinExpected;1
+CostMaxExpected;4
